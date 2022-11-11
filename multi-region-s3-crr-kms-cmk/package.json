@@ -11,7 +11,7 @@
     "cdk": "cdk"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "1.118.0",
+    "@aws-cdk/assert": "1.180.0",
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
     "jest": "^26.4.2",
@@ -21,8 +21,8 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "@aws-cdk/aws-s3": "^1.118.0",
-    "@aws-cdk/core": "1.118.0",
+    "@aws-cdk/aws-s3": "^1.180.0",
+    "@aws-cdk/core": "1.180.0",
     "multi-region-s3-crr-kms-cmk-source": "file:constructs/multi-region-s3-crr-kms-cmk-source@0.1.0.jsii.tgz",
     "multi-region-s3-crr-kms-cmk-target": "file:constructs/multi-region-s3-crr-kms-cmk-target@0.1.0.jsii.tgz",
     "source-map-support": "^0.5.16"
